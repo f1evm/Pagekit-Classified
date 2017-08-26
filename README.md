@@ -1,3 +1,9 @@
-# Blog Extension
+# Classified Ads. Extension
 
-A blog extensions with a built-in comment system.
+### A Classified Ads. extension for Pagekit CMS.
+
+Simple Classified Ads. for small organisation, club or association etc..
+
+#### This extension is under development.
+I write this extension for the need of a club, and also as a training 
+for developing Pagekit extensions.
