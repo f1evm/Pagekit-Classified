@@ -1,0 +1,72 @@
+.evm_ca_ad {
+  margin-bottom: 15px;
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  background: #fff;
+  font-size: 14px;
+}
+
+.evm_ca_ad_header {
+  background: #3a94e0;
+  color: #fff;
+  padding: 0 10px 0 10px;
+
+}
+
+ .evm_ca_ad_header a {
+   color: #fff;
+}
+
+.evm_ca_ad p {
+
+  margin: 0 0 0 10px;
+  padding: 0 10px;
+}
+
+.evm_ca_ad_category{
+  background-color: #fff2cc;
+  color: #000;
+  margin-right:0;
+  padding: 0 10px;
+}
+
+p.evm_ca_ad-meta{
+
+  border-top: 1px solid #ddd;
+  border-radius: 3px;
+  margin: 0;
+  padding: 0 10px 0 10px;
+}
+
+.evm_ca_ad_edit_content,
+.evm_ca_ad_edit_content .uk-form-controls,
+.evm_ca_ad_edit_content .uk-form-controls textarea {
+  height: 100%;
+  width: 100%;
+}
+
+.evm_ca_ad_edit_folder{
+  border: 1px solid #ddd;
+  border-top: 0;
+  padding:20px !important;
+}
+
+.evm_ca_img_thumb{
+  max-width: 100px;
+}
+
+.evm_ca_overlay_panel{
+    position: absolute;
+    top: 0;
+    /* bottom: 0; */
+    /* left: 0; */
+    right: 0;
+    padding: 0 20px 0 35px;
+    background-color: #f7f7f7;
+    opacity: 0.2;
+}
+
+.evm_ca_overlay_panel:hover{
+    opacity: 1;
+  }
