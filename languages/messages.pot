@@ -9,6 +9,9 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Test en"
+msgstr ""
+
 msgid "View"
 msgstr ""
 
@@ -210,7 +213,7 @@ msgstr ""
 msgid "No category found."
 msgstr ""
 
-msgid "{0} %count% Categories|{1} %count% Ad|]1,Inf[ %count% Categories"
+msgid "{0} %count% Categories|{1} %count% Category|]1,Inf[ %count% Categories"
 msgstr ""
 
 msgid "{1} %count% Category selected|]1,Inf[ %count% Categories selected"
